@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Ketiga</string>
+    <string name="shared_preferences_key">SAVE_FILE</string>
+    <string name="input_key">INPUT_KEY</string>
+</resources>
